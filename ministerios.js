@@ -1,146 +1,98 @@
 const ministerios = [
   {
-    nome: "Legacy",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Kids",
+    coordenacao: "Talita",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "O Kids é o ministério infantil que atende crianças de 1 a 9 anos.\n\nVisão: Formar uma geração comprometida com o evangelho, ensinando os princípios da Palavra de Deus de forma contextualizada, criativa e prática."
   },
   {
-    nome: "Louvor",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Link",
+    coordenacao: "Marcelo e Raquel",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "O Link é o ministério de pré-adolescentes de 10 a 13 anos.\n\nVisão: Formar adolescentes comprometidos com a Palavra, entendendo sua identidade e propósito em Deus."
   },
   {
-    nome: "Kids",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Legacy",
+    coordenacao: "Calebe e Vitória",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Ministério voltado para jovens.\n\nVisão: Formar uma geração firme na fé, apaixonada por Jesus e com propósito."
   },
   {
-    nome: "Link",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Shine",
+    coordenacao: "Talita",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Ministério de mulheres.\n\nVisão: Levantar mulheres curadas, fortalecidas e cheias do Espírito Santo."
   },
   {
-    nome: "Interseção",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Hero",
+    coordenacao: "Filipe",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Ministério de homens.\n\nVisão: Formar homens íntegros, líderes e comprometidos com Deus."
   },
   {
-    nome: "Diaconato",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Diaconato",
+    coordenacao: "Camila e Maicon",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Equipe responsável por organizar e servir nos cultos.\n\nVisão: Servir com excelência e amor."
   },
   {
-    nome: "Wecare",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Intercessão",
+    coordenacao: "Luciana e Núbia",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Responsável pela cobertura espiritual.\n\nVisão: Sustentar a igreja em oração constante."
   },
   {
-    nome: "Mídia",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Gerações",
+    coordenacao: "Reinaldo e Vera",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Ministério voltado para famílias.\n\nVisão: Fortalecer lares segundo princípios bíblicos."
   },
   {
-    nome: "Conect",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Dança",
+    coordenacao: "Talita",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Expressa adoração por meio da arte.\n\nVisão: Adorar com excelência e criatividade."
   },
   {
-    nome: "Hero",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Conect",
+    coordenacao: "Isabelle e Rafael",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Ministério de recepção.\n\nVisão: Receber com amor e criar um ambiente acolhedor."
   },
   {
-    nome: "Shine",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: GC",
+    coordenacao: "",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Pequenos grupos de comunhão.\n\nVisão: Promover discipulado e crescimento espiritual."
   },
   {
-    nome: "Crie",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Louvor",
+    coordenacao: "Jeferson e Natália",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Conduz a igreja em adoração.\n\nVisão: Levar a igreja a uma experiência profunda com Deus."
   },
   {
-    nome: "Gerações",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Mídia",
+    coordenacao: "Vitória",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Atua com fotos, vídeos e projeção.\n\nVisão: Comunicar o evangelho com excelência."
   },
   {
-    nome: "Dança",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: We Care",
+    coordenacao: "Pr. Renato",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Ministério de ação social.\n\nVisão: Demonstrar o amor de Cristo com ações práticas."
   },
   {
-    nome: "GC",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Crie",
+    coordenacao: "Pr. Renato",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Empreendedores cristãos.\n\nVisão: Impactar o mercado com princípios bíblicos."
   },
   {
-    nome: "Mãos Ungidas",
-    coordenacao: "A definir",
-    telefone: "",
+    nome: "Ministério: Mãos Ungidas",
+    coordenacao: "",
     imagem: "",
-    descricao: "",
-    galeria: [],
-    video: ""
+    descricao: "Responsável pela cantina.\n\nVisão: Servir com alegria e excelência."
   }
 ];
