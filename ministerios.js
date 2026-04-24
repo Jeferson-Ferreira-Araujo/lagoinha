@@ -37,7 +37,7 @@ const ministerios = [
   },
   {
     nome: "Ministério: Intercessão",
-    coordenacao: "Luciana e Núbia",
+    coordenacao: "Luciene e Núbia",
     imagem: "",
     descricao: "Responsável pela cobertura espiritual.\n\nVisão: Sustentar a igreja em oração constante."
   },
